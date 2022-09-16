@@ -9,12 +9,16 @@ public class RenameThisClass
 {
     public static void main(String[] args) {
         
-        int i;
+        int i = 10;
         
-        float f = 2.5f;
+        float f=69;
         
+        f = i+f;
+        
+        
+    
         boolean flag = true;
         
-        System.out.println("Hello World!");
+        System.out.println();
     }
 }
