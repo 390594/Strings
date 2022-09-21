@@ -9,18 +9,18 @@ public class RenameThisClass
 {
     public static void main(String[] args) {
         int i = 10;
-        
+
         float f = 1;
-        
+
         f = i + f;
-        
+
         boolean flag = true;
         flag = !flag;
-        
+
         while(i<19) {
             System.out.println(++i);
-    }
-            System.out.println(f);
-            System.out.println(flag);
+        }
+        System.out.println(f);
+        System.out.println(flag);
     }
 }
